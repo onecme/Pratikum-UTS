@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+
+fieldset{
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+table{
+    margin-left: 80px;
+}
+legend{
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.submit{
+    text-align: right;
+}
+td{
+    padding-bottom: 20px;
+}
+input,textarea, select{
+    margin-left: 20px;
+}
+#namaTempatWisata{
+    width: 680px;
+}
+
+
+#submit{
+    background-color: #33aabb;
+    color: #ffff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+#reset{
+    background-color: #e45048;
+    color: #ffff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+label{
+    display: block;
+    text-align: end;
+}
